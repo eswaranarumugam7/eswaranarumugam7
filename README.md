@@ -4,7 +4,6 @@
 
 🔭 What I'm Doing Now
 
-* 💼 Working on enterprise applications at **Changepond Technologies**
 * 🤖 Learning **Generative AI** & AI‑assisted development
 * ⚙️ Strengthening backend skills with **.NET **
 * 🧠 Exploring system design & clean architecture
