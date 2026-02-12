@@ -5,7 +5,7 @@
 🔭 What I'm Doing Now
 
 * 🤖 Learning **Generative AI** & AI‑assisted development
-* ⚙️ Strengthening backend skills with **.NET **
+* ⚙️ Strengthening backend skills with .NET 
 * 🧠 Exploring system design & clean architecture
 
 💬 Ask Me About
@@ -38,7 +38,7 @@
 
 > "AI is a tool. Engineering judgment is the skill."
 
-I focus on **understanding fundamentals**, writing **maintainable code**, and using AI to accelerate — not replace — real engineering.
+I focus on understanding fundamentals, writing maintainable code, and using AI to accelerate — not replace — real engineering.
 
-⭐ *If you like my work, feel free to follow or connect!*
+⭐ If you like my work, feel free to follow or connect
 
