@@ -1,6 +1,6 @@
 👋 Hi, I'm Eswaran
 
-🚀 Frontend-focused Software Developer with **~2 years of experience**.I build scalable UI applications, integrate modern backends, and actively upskill in **full‑stack engineering**.
+🚀 Frontend-focused Software Developer with **2 years of experience**.I build scalable UI applications, integrate modern backends, and actively upskill in **full‑stack engineering**.
 
 🔭 What I'm Doing Now
 
@@ -40,5 +40,5 @@
 
 I focus on understanding fundamentals, writing maintainable code, and using AI to accelerate — not replace — real engineering.
 
-⭐ If you like my work, feel free to follow or connect
+⭐ If you like my work, feel free to follow or connect --eswaranarumugam2002@gmail.com
 
