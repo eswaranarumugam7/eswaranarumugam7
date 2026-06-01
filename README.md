@@ -1,6 +1,6 @@
 👋 Hi, I'm Eswaran
 
-🚀 Frontend-focused Software Developer with **2 years of experience**.I build scalable UI applications, integrate modern backends, and actively upskill in **full‑stack engineering**.
+🚀 Software Developer with **2 years of experience**.I build scalable UI applications, integrate modern backends, and actively upskill in **full‑stack engineering**.
 
 🔭 What I'm Doing Now
 
